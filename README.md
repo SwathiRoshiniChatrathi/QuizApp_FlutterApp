@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# QuizApp_FlutterApp
+>>>>>>> 6a8da0f6e6d383999794fb1eb8f5c3e603daf3e7
